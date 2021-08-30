@@ -25,4 +25,4 @@ For example:
 
 These examples gives us an idea of the dynamic of the bias over time and it fits to the Netflix Prize Competition discussed in the paper. Basically because
 Netflix works smartly by recommender systems. Users here can qualify a movie or a tv show and then Netflix can recommend similar items to the user. Also, taste of the user
-may change or they can see a movie/tv show by the recommendation of a friend, but this still works to Netflix as it enlarges the dataset.
+may change or they can see a movie/tv show by the recommendation of a friend, but this still works to Netflix as it enlarges the dataset. 
