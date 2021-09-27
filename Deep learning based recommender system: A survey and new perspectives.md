@@ -4,7 +4,7 @@ This paper is about the use of Deep Learning in recommender systems.
 The survey is written in an orderly manner and in a way that is comfortable to read. It's a good summary of the basics of recommender systems and deep learning. 
 his makes it better understood what the authors want to propose when these two areas are mixed. Specifically, the authors discuss different 
 architectures in the world of deep learning. Also, in the paper the authors explain the strengths of deep learning based recommendation models. 
-This are:
+These are:
 
 1. Nonlinear Transformation.
 2. Representation Learning.
